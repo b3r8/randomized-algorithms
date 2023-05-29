@@ -10,7 +10,7 @@ Implementation of some randomized algorithms from UCSC CSE290A Spring 2020 class
 
 ## Main reference
 
-- [1] https://www.youtube.com/watch?v=sXHr3CDAeWE&list=PLOQjlWvnI0faRpH2oJcyW4CuM5Clt8a2n
+- [1] [Lectures playlist](https://www.youtube.com/watch?v=sXHr3CDAeWE&list=PLOQjlWvnI0faRpH2oJcyW4CuM5Clt8a2n)
 
 
 ## TO-DO(?)
